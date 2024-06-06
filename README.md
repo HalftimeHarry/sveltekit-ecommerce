@@ -16,6 +16,8 @@ pnpm create svelte@latest my-app
 
 ## Developing
 
+Use this export DATABASE_URL=file:./dev.db
+
 Once you've created a project and installed dependencies with `pnpm install` (or `ppnpm install` or `yarn`), start a development server:
 
 ```bash
